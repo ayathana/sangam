@@ -1,1 +1,2 @@
 hi new session started
+added new commands 
