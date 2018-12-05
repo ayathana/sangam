@@ -1,2 +1,0 @@
-# sangam
-DevOps training
